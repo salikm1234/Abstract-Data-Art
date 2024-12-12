@@ -39,5 +39,6 @@ Class Concepts:
         •	Math.random: Generates random notes and colors.
         •	Math.round: Rounds ratings for size calculations.
 	•	Visualization: Abstract art showing relationships between movie data.
+ The X coordinate of the square is used to sort the items by genre
 
 This program highlights the patterns in data through size (rating), position (year and genre), and sound (notes based on rating category). It encourages viewers to explore trends while enjoying an interactive visualization.
